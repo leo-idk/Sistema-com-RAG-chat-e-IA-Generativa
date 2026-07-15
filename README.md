@@ -6,6 +6,6 @@ It maintains conversation history in a list for natural dialogue and runs an int
 
 ## How to Run:
 
-Install Python and the OpenAI library, then run python CLI_version.py (or whatever filename) in your terminal.
+Install Python and the OpenAI library, then run python cli_version.py in your terminal.
 
 Enter your GitHub Models developer token when prompted, and the script will automatically load the local database file from the same directory to start the session.
