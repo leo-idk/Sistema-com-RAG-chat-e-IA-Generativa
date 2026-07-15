@@ -4,7 +4,7 @@ This terminal chatbot uses the GitHub Models API and a local text file to answer
 
 It maintains conversation history in a list for natural dialogue and runs an interactive loop until you type "exit".
 
-How to Run
+How to Run:
 
 Install Python and the OpenAI library, then run python CLI_version.py (or whatever filename) in your terminal.
 
