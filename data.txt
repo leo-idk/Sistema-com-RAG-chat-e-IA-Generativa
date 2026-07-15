@@ -1,0 +1,62 @@
+ERROR 01 -> TOOL FAILURE
+ERROR 02 -> MACHINE FAILURE
+ERROR 03 -> LUBRICATION FAILURE
+ERROR 04 -> QUALITY FAILURE
+ERROR 05 -> MOTOR OVERHEATING
+ERROR 06 -> SENSOR FAILURE
+ERROR 07 -> POWER OUTAGE
+ERROR 08 -> ALIGNMENT FAILURE
+ERROR 09 -> INSUFFICIENT PRESSURE
+ERROR 10 -> HYDRAULIC LEAK
+ERROR 11 -> PNEUMATIC FAILURE
+ERROR 12 -> EXCESSIVE WEAR
+ERROR 13 -> BELT BREAKAGE
+ERROR 14 -> SHAFT JAM
+ERROR 15 -> ELECTRICAL FAILURE
+ERROR 16 -> TEMPERATURE FLUCTUATION
+ERROR 17 -> COMMUNICATION FAILURE
+ERROR 18 -> LOW OIL LEVEL
+ERROR 19 -> EXCESSIVE VIBRATION
+ERROR 20 -> CALIBRATION FAILURE
+ERROR 21 -> FILTER CLOGGING
+ERROR 22 -> PRODUCTION FAILURE
+ERROR 23 -> EMERGENCY STOP ACTIVATED
+ERROR 24 -> STARTUP FAILURE
+ERROR 25 -> FREQUENCY INVERTER FAILURE
+ERROR 26 -> SYSTEM OVERLOAD
+ERROR 27 -> COOLING FAILURE
+ERROR 28 -> SENSOR DISCONNECTED
+ERROR 29 -> CONFIGURATION ERROR
+ERROR 30 -> PREVENTIVE MAINTENANCE REQUIRED
+
+Maintenance Cost Simulation
+ERROR 01 - Replace tool - R$ 350.00
+ERROR 02 - Inspect general components (technical hour) - R$ 500.00
+ERROR 03 - Refill lubrication system - R$ 120.00
+ERROR 04 - Adjust parameters and discard part (loss) - R$ 80.00
+ERROR 05 - Cooling down and ventilation check - R$ 150.00
+ERROR 06 - Replace or reposition sensor - R$ 250.00
+ERROR 07 - Reset circuit breakers and check panel - R$ 100.00
+ERROR 08 - Realign shafts and retighten fixtures - R$ 400.00
+ERROR 09 - Adjust valves and check compressor - R$ 300.00
+ERROR 10 - Replace hose/seal and top up fluid - R$ 450.00
+ERROR 11 - Clean valves and check air line - R$ 200.00
+ERROR 12 - Replace component with excessive wear - R$ 850.00
+ERROR 13 - Install new belt and adjust tension - R$ 180.00
+ERROR 14 - Clear obstruction, lubricate and unlock shaft - R$ 600.00
+ERROR 15 - Electrical repair by specialist - R$ 550.00
+ERROR 16 - Calibrate thermostat and check thermal system - R$ 220.00
+ERROR 17 - Restart network and replace data cables - R$ 130.00
+ERROR 18 - Top up system oil level - R$ 90.00
+ERROR 19 - Balancing and retightening fixtures - R$ 750.00
+ERROR 20 - System instrument calibration - R$ 380.00
+ERROR 21 - Clean or replace filter - R$ 110.00
+ERROR 22 - Line stoppage and setup cost - R$ 900.00
+ERROR 23 - Safety check and panel reset - R$ 50.00
+ERROR 24 - Replace fuses or starter contactor - R$ 170.00
+ERROR 25 - Reset and parameterization of inverter - R$ 450.00
+ERROR 26 - Reset thermal relay and adjust load - R$ 85.00
+ERROR 27 - Replenish coolant and test chiller - R$ 280.00
+ERROR 28 - Reconnect or replace sensor connector - R$ 60.00
+ERROR 29 - Software/recipe reconfiguration - R$ 150.00
+ERROR 30 - Execution of preventive maintenance package - R$ 1,500.00
