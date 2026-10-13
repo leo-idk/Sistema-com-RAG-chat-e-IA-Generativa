@@ -1,2 +1,1 @@
-# iagenerativamt
-Ia generativa com RAG para análise de produção
+# Sistema com RAG chat e IA Generativa 
